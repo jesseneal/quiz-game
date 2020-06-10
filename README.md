@@ -44,7 +44,7 @@ At the end of the quiz the program should still output the total number of quest
 
 ## Building
 ```
-docker build -it quiz .
+docker build -t quiz .
 ```
 
 ## Running
